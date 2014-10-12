@@ -1,4 +1,7 @@
-whmcs-free-options
-==================
+WHMCS FREE OPTION LIMITER
+=========================
 
-Allows you to offer a certain amount of configurable options for free
+Allows you to give up to X free options per product, and charge for the rest. 
+
+Documentation can be found here: [WHMCS Free Option Limiter Documentation](http://thoughtengineer.com/whmcs-free-option-limiter/)
+
